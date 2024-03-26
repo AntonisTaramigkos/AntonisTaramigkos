@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AntonisTaramigkos&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonisTaramigkos&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## ![snake animation](https://github.com/<seu AntonisTaramigkos>/<seu AntonisTaramigkos>/blob/output/github-contribution-grid-snake2.svg)
+## ![snake animation] (https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
