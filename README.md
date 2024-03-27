@@ -15,11 +15,9 @@
   <a href="https://github.com/eagrundy">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonisTaramigkos&layout=compact&langs_count=16&theme=shades-of-purple"/>
 <div>
-<div> 
-    ![Snake animation](https://github.com/AntonisTaramigkos/AntonisTaramigkos/blob/output/github-contribution-grid-snake.svg)
 
-<div>
-## 
+## Snake Game
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
