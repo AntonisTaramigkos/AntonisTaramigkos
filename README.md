@@ -10,7 +10,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AntonisTaramigkos&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AntonisTaramigkos&theme=shades-of-purple&hide_border=false)<br/>
-![Antony s GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonisTaramigkos&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Antony s GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonisTaramigkos&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/AntonisTaramigkos)
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=saifurrahman1193&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
 
 ## ![Snake animation](https://github.com/AntonisTaramigkos/AntonisTaramigkos/blob/output/github-contribution-grid-snake.svg)
 
