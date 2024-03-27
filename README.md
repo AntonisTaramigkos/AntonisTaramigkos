@@ -16,7 +16,7 @@
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonisTaramigkos&layout=compact&langs_count=16&theme=shades-of-purple"/>
 <div>
 
-## Snake Game
+## 
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 ### ✍️ Random Dev Quote
