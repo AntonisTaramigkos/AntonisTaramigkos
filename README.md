@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍I am based in Athens Greece<br>🚀 I’m currently working on a Customer Management program.<br>👯 I’m looking to collaborate on Projects<br>🌱 I’m currently learning C#<br>🚙 Aiming to merge my coding passion with a flexible lifestyle, I'm on a path to become a digital nomad, committed to crafting efficient, DRY-principled code from any corner of the globe<br>⚡ Fun fact after two decades of successfully running a tire shop, I decided to shift gears and dive into the world of coding, as this was my   childhood dream! .<br>📫 Contact me @ : ataramigkos@gmail.com
+🌍I am based in Athens Greece<br>🚀 I’m currently working on a Customer Management program.<br>👯 I’m looking to collaborate on Projects<br>🌱 I’m currently learning C#<br>⚡ Fun fact after two decades of successfully running a tire shop, I decided to shift gears and dive into the world of coding, as this was my   childhood dream! .<br>📫 Contact me @ : ataramigkos@gmail.com
 
 
 ## 🌐 Socials:
