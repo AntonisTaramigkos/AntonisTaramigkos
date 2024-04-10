@@ -13,7 +13,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AntonisTaramigkos&theme=shades-of-purple&hide_border=false)<br/>
 <div>
-  <a href="https://github.com/eagrundy">
+  <a href="https://github.com/AntonisTaramigkos">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonisTaramigkos&layout=compact&langs_count=16&theme=shades-of-purple"/>
 <div>
 
