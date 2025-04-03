@@ -25,6 +25,6 @@
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/{AntonisTaramigkos}/count.svg
+![Visitor Count](https://profile-counter.glitch.me/{AntonisTaramigkos}/count.svg)
 
 
