@@ -24,7 +24,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
+Visitor Count (after the reboot :P ) :
 ![Visitor Count](https://profile-counter.glitch.me/{AntonisTaramigkos}/count.svg)
 
 
